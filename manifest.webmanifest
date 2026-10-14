@@ -3,8 +3,8 @@
   "short_name": "Sakura Flap",
   "description": "Sakura bahçesinde uçan minik kuş oyunu. Türkçe ve İngilizce.",
   "lang": "tr",
-  "start_url": "./",
-  "scope": "./",
+  "start_url": "/flappy-bird/",
+  "scope": "/flappy-bird/",
   "display": "standalone",
   "background_color": "#fff0f5",
   "theme_color": "#ffe8f1",
@@ -22,5 +22,7 @@
       "type": "image/png",
       "purpose": "any maskable"
     }
-  ]
+  ],
+  "id": "/flappy-bird/",
+  "prefer_related_applications": false
 }
